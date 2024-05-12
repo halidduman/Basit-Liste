@@ -32,7 +32,7 @@ Bu proje, kullanıcıların listeler oluşturmasını, listelere öğe eklemesin
 
 
 ## İletişim
-Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen halidduman60@gmail.com adresinden bize ulaşın.
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen halidduman60@gmail.com adresinden bana ulaşın.
 
 ---
 ![Örnek Ekran Görüntüsü](image/BrandGuidelines-ezgif.com-video-to-gif-converter.gif)
