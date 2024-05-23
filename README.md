@@ -7,7 +7,7 @@
 ## Açıklama
 Bu proje, kullanıcıların listeler oluşturmasını, listelere öğe eklemesini ve çıkarmasını sağlayan bir web uygulamasıdır. Ayrıca, kullanıcının tüm listeyi tek bir düğmeyle silebilmesini sağlayan bir özellik içermektedir. Uygulama tamamen duyarlıdır, yani farklı cihazlarda sorunsuz çalışır.
 
-# [Web Sitesini Ziyaret Et](https://notlar-haritasi.netlify.app)
+# [Web Sitesini Ziyaret Et](https://basit-liste.netlify.app)
 
 ![Örnek Ekran Görüntüsü](image/2.png)
 
